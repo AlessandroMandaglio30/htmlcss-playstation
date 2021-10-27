@@ -1,4 +1,7 @@
 /* HEADER */
+header{
+    display: unset;
+}
 #sony-logo img{
     height: 15px;
 }
@@ -30,7 +33,6 @@ li.ms_style_li::before{
 
 /* JUMBOTRON */
 .jumbo {
-    margin-top: 100px;
     height: 650px;
 }
 
