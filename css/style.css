@@ -1,0 +1,29 @@
+
+#sony-logo img{
+    height: 15px;
+}
+
+.ms_drop_fullpage{
+    left:0;
+    width:100vw; 
+    margin-top:-10px !important;
+    border: none;
+}
+
+
+li.ms_style_li::before{
+    display: inline-block;
+    margin-right: 0.4em;
+    vertical-align: middle;
+    content: "";
+    width: 0.5em;
+    height: 0.5em;
+    border-radius: 50%;
+    background-color: #363636;
+    
+}
+
+.ms_style_a{
+    text-decoration: none;
+    color: #363636;
+}
