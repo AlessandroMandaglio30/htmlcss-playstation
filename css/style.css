@@ -52,3 +52,11 @@ li.ms_style_li::before{
 .jumbo-bottom img {
     border-radius: 25px;
 }
+
+/* MAIN */
+.img_nuovo {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    object-fit: center;
+    background-position-x: center;
+    background-position-y: top;
+}
