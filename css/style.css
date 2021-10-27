@@ -48,3 +48,7 @@ li.ms_style_li::before{
     border-radius: 20px;
     padding: 6px 13px;
 }
+
+.jumbo-bottom img {
+    border-radius: 25px;
+}
