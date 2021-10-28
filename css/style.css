@@ -71,3 +71,17 @@ li.ms_style_li::before{
 .ms_bg_now{
     background-color:#0a1432 ;
 }
+
+/* FOOTER */
+
+footer{
+    background-color: #00439c;
+}
+
+.logoplay{
+    height: 70px;
+}
+
+.logosie{
+    height:50px
+}
