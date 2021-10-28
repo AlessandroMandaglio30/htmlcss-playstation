@@ -67,3 +67,7 @@ li.ms_style_li::before{
 .ms_bg_plus{
     background-color: #c1bdbc;
 }
+
+.ms_bg_now{
+    background-color:#0a1432 ;
+}
