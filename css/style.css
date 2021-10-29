@@ -85,3 +85,17 @@ footer{
 .logosie{
     height:50px
 }
+
+/* BONUS */
+
+.ms_cursor{
+    cursor: pointer;
+}
+
+.salto img:hover { 
+    margin-top: 10px; 
+}
+
+.opacità img:hover{
+    opacity: 0.5;
+}
